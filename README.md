@@ -1,6 +1,8 @@
 # SpotCheck
 ## Contents of the Repository
 ### Section 1: Software and Platform Section
+### Section 2: Map of Documentation
+### Section 3: Instructions for Reproducing the Results
 ## Software and Platform
 
 **Software:** Google Colab and Jupyter Notebooks
