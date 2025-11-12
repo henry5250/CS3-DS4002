@@ -23,8 +23,11 @@
 ```markdown
 VaxxVote/
 ├── data/
-│ ├── Coccinella_novemnotata.zip
-│ ├── Harmonia_axyridis.zip
+│ ├── final_datasets/
+│ │ ├── final_Coccinella_novemnotata.zip
+│ │ └── final_Harmonia_axyridis.zip
+│ ├── Coccinella_novemnotata.zip # raw
+│ ├── Harmonia_axyridis.zip # raw
 │ └── README.md
 ├── scripts/
 │ ├── 1_scraping.ipynb
