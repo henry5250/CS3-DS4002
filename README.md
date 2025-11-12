@@ -8,13 +8,14 @@
 **Software:** Google Colab and Jupyter Notebooks
 
 **Add-on packages:**
-- pandas
+- requests
+- zipfile
+- os
+- random
+- IPython.display
+- Pillow
 - numpy
-- matplotlib
-- statsmodels.formula.api
-- seaborn
-- scikit-learn
-- scipy
+  
 
 **Platform:** Windows and Mac
 
